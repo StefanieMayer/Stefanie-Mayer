@@ -1,9 +1,9 @@
 <html>
   <head>
-    <title> Stefanie Mayer </title>
   </head>
       <body>
-        <h1> Hello World </h1> <br>
+        <h1> Stefanie Mayer </h1> <br> 
+        <h2> Hello world </h2>
         Whats up?
       </body>
 </html>

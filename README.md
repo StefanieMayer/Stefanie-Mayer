@@ -4,6 +4,7 @@
   </head>
       <body>
         <h1> Hello world! </h1> <br> 
-        Whats up?
+        <h2> Whats up? </h2> <br>
+        Greetings from the command line.
       </body>
 </html>

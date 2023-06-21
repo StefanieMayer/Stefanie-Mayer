@@ -1,0 +1,4 @@
+name = Stefanie
+city = Rottweil
+print ('My name is' + name + '.')
+print ('I am from' + city + '.')

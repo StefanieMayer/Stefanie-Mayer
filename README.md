@@ -1,4 +1,9 @@
 <html>
+  <style>
+    h1 {
+      color:lightblue;
+      }
+  </style>
   <head>
     <title> Stefanie Mayer </title>
   </head>

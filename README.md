@@ -1,7 +1,8 @@
 <html>
   <style>
     h1 {
-      color:lightblue;
+    color: blue
+      font: geneva;
       }
   </style>
   <head>

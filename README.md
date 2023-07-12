@@ -1,9 +1,9 @@
 <html>
-  <head>>
+  <head>
     <title> Stefanie Mayer </title>
   <style>
     h1 {
-    color: blue;
+      color: blue;
       font: geneva;
       }
   </style>

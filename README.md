@@ -1,16 +1,16 @@
 <html>
+  <head>>
+    <title> Stefanie Mayer </title>
   <style>
     h1 {
-    color: blue
+    color: blue;
       font: geneva;
       }
   </style>
-  <head>
-    <title> Stefanie Mayer </title>
   </head>
       <body>
         <h1> Hello world! </h1> <br> 
         <h2> Whats up? </h2> <br>
-        Greetings from the command line.
+        <p> Greetings from the command line. </p>
       </body>
 </html>
